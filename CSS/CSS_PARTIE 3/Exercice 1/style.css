@@ -1,0 +1,20 @@
+.wrapperHeader{
+    background-position-x: center;
+    background-image:url(Poisson.jpg);
+        position: relative;
+        text-align: center;
+        color: red;
+}
+
+.header{
+    background:url(Poisson.jpg) no-repeat;
+    position: relative;
+    text-align: center;
+    color: red;
+}
+.title
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: xx-large;
+    color: black;
+}

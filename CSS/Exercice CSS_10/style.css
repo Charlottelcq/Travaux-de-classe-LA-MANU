@@ -1,0 +1,66 @@
+.green
+{
+    background-color: green;
+    height: 30px;
+    width: 80%;
+}
+.blue
+{
+    background-color: rgb(51, 51, 192);
+    height: 30px;
+    width: 20%;
+}
+.flexi1
+{
+    display: flex;
+}
+.flexi2
+{
+    display: flex;
+}
+.red
+{
+    background-color: red;
+    height: 30px;
+    width: 30%;
+}
+.orange
+{
+    background-color: orange;
+    height: 30px;
+    width: 30%;
+}
+.grey
+{
+    background-color: grey;
+    height: 30px;
+    width: 40%;
+}
+.flexi3
+{
+    display: flex;
+}
+.yellow
+{
+    background-color: yellow;
+    height: 30px;
+    width: 20%;
+}
+.turquoise
+{
+    background-color: turquoise;
+    height: 30px;
+    width: 20%;
+}
+.darkorange
+{
+    background-color: orangered;
+    height: 30px;
+    width: 30%;
+}
+.flexi4
+{
+    background-color: darkblue;
+    height: 150px;
+    width: 100%;
+}
